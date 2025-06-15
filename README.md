@@ -33,11 +33,10 @@ To run this project locally, ensure you have the following installed:
 
 ## Features
 
-- **Dual-mode mobility**: flies in the air and dives underwater
-- Hybrid unit for creative strategies
-- Equipped with torpedoes and aerial weaponry
-- Inspired by real Cold War concept designs
-  
+- Stealthy reconnaissance aircraft
+- Fragile but can out maneuver projectiles
+- Cannot be seen by minimap
+   
 ---
 
 ## Installation
